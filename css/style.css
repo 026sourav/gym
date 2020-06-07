@@ -229,7 +229,7 @@ nav img {
     border: transparent;
 }
 
-.shopheading h3 {
+#shopheading h3 {
     width: 100vw;
     font-size: 2rem;
     display: flex;
