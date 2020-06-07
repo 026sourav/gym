@@ -214,12 +214,12 @@ nav img {
 
 .shopbox img {
     box-shadow: 5px 6px grey;
-    height: 50vh;
+    height: 60vh;
     width: 30vw;
 }
 
 .shopbox button {
-    padding: 0px 0px;
+    padding: 5px 5px;
     margin: 20px 0px;
     border-radius: 4px;
     font-size: 1rem;
