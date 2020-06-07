@@ -278,7 +278,7 @@ nav img {
     top: 90px;
     height: 60vh;
     display:flex;
-    
+padding:"0px 20px";    
 }
 #feed #box h3{
     
@@ -288,9 +288,9 @@ nav img {
 #feed #box p{
 color:cadetblue;
     display: flex;
-    text-align: center;
+    
     justify-content: center;
-    text-align: center;
+    
     font-size: 20px;
 
 }
