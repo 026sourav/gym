@@ -55,7 +55,8 @@ nav img {
 
 }
 #info {
-
+  background-color: white;
+    border: 3px solid white;
 }
 .infobox1{
     
