@@ -65,7 +65,7 @@ nav img {
 }
 .infobox2{
     float:left;
-width:98;
+width:98%;
 }
 .infobox3{
     
@@ -121,7 +121,7 @@ width: 100vw;
 }
 #image{
 position: relative;
-    top: 25px;
+    top: 35px;
 }
 #image img {
 
