@@ -120,7 +120,8 @@ width: 100vw;
 
 }
 #image{
-
+position: relative;
+    top: 25px;
 }
 #image img {
 
