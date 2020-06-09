@@ -241,13 +241,28 @@ nav img {
 }
 
 #image {
+    border: 2px solid red;
     width: 100vw;
+    height: 70vh;
     display: flex;
 }
 
-#image img {
-    width: 50vw;
-    height: 100vh;
+#image::before{
+    content: "";
+    position: relative;
+    background: url(../new1.jpg) no-repeat center;
+    width: 100vw;
+    height: 70vh;
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+    opacity: 1;
+
+}
+#image:hover {
+    background: url(../new2.jpg)  no-repeat center ;
+    width: 100vw;
+    height: 70vh;
 }
 
 #aboutus {
