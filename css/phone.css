@@ -95,13 +95,13 @@ nav img {
     height: 56vh;
 }
 #shop{
-
+display:block;
 }
 .shopbox {
 
 }
 .shopbox img {
-
+width: 100vw;
 }
 .shopbox button {
 
