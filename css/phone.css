@@ -59,12 +59,16 @@ nav img {
     border: 3px solid white;
 }
 .infobox1{
+    float:left;
+    width:98%;
     
 }
 .infobox2{
-
+    float:left;
+width:98;
 }
 .infobox3{
+    
     display: block;
 }
 .infobox h3{
