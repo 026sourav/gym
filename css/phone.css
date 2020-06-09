@@ -94,11 +94,17 @@ nav img {
 .eventbox {
     height: 56vh;
 }
+#shopheading{
+ position: relative;
+    top: 69px;
+}
 #shop{
 display:block;
+   
 }
 .shopbox {
-
+position:relative;
+    top:90px;
 }
 .shopbox img {
 width: 100vw;
