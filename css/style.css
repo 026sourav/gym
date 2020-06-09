@@ -241,7 +241,7 @@ nav img {
 }
 
 #image {
-    border: 2px solid red;
+/*     border: 2px solid red; */
     width: 100vw;
     height: 70vh;
     display: flex;
