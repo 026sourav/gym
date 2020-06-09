@@ -1,0 +1,176 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+
+}
+}
+header{
+
+
+}
+#symbol{
+
+}
+#symbol i {
+    margin: -1px 7px;
+}
+#text{
+    
+}
+#text li{
+    margin: 0px 18px;
+}
+nav {
+
+}
+nav span{
+    right: 23px;
+}
+nav img {
+    right: 27px;
+}
+#navbar ul{
+    
+}
+#navbar ul li{
+    font-size: 14px;
+    margin: 15px 2px;
+
+}
+#container{
+
+}
+
+#container::before{
+
+}
+#container h1{
+
+}
+#container p{
+
+}
+#container button{
+
+}
+#info {
+
+}
+.infobox1{
+    
+}
+.infobox2{
+
+}
+.infobox3{
+    display: block;
+}
+.infobox h3{
+    top: -95px;
+    left: 118px;
+
+
+}
+.infobox .search{
+    position: relative;
+    top: -45px;
+    right: -50px;
+}
+.infobox .search i{
+    right: -206px;
+    top: -69px;
+}
+
+#event
+{
+    top: 88px;
+
+}
+#event h1{
+
+}
+.eventbox {
+    height: 56vh;
+}
+#shop{
+
+}
+.shopbox {
+
+}
+.shopbox img {
+
+}
+.shopbox button {
+
+}
+#shopheading h3{
+
+}
+#image{
+
+}
+#image img {
+
+}
+#aboutus{
+
+}
+
+#aboutus #box {
+    height: 15vh;
+    width: 122px;
+    padding: 8px 0px;
+    margin: 9px 0px;
+    color: black;
+
+}
+#aboutus #box h4 {
+    font-size: 12px;
+}
+#aboutus #box p {
+    font-size: 17px;
+}
+#feed{
+
+     height: 184vh;
+}
+
+#feed #box h3{
+
+}
+#feed #box p{
+
+}
+footer{
+    
+}
+footer ul{
+    font-size: 17px;
+}
+footer ul li{
+    padding: 7px 17px;
+}
+footer p{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
